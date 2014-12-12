@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-<name>mzupan.github.com/pear</name>
+<name>mzupan.github.io/pear</name>
 <summary>mzupan's PEAR Channel Server</summary>
 <alias>mzupan</alias>
-<url>http://mzupan.github.com/pear</url>
+<url>http://mzupan.github.io/pear</url>
 </server>
