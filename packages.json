@@ -1,3 +1,41 @@
-[
-
-]
+{
+    "pear-mzupan\/Protobuf": {
+        "versions": {
+            "1.0.0": {
+                "name": "pear-mzupan\/Protobuf",
+                "description": "PHP implementation of Google's Protocol Buffers",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/mzupan.github.io\/pear\/get\/Protobuf-1.0.0.tgz"
+                },
+                "version": "1.0.0",
+                "time": "2014-12-12T13:31:08-08:00",
+                "require": {
+                    "php": ">=5.3.0",
+                    "pear-pear\/Console_CommandLine": ">=1.1.0"
+                },
+                "authors": [
+                    {
+                        "name": "Iv\u00e1n -DrSlump- Montes",
+                        "email": "drslump@pollinimini.net",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        ""
+                    ]
+                }
+            }
+        },
+        "name": "pear-mzupan\/Protobuf",
+        "description": "PHP implementation of Google's Protocol Buffers",
+        "maintainers": [
+            {
+                "name": "Iv\u00e1n -DrSlump- Montes",
+                "email": "drslump@pollinimini.net",
+                "homepage": ""
+            }
+        ]
+    }
+}

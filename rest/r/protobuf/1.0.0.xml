@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/protobuf">Protobuf</p>
+    <c>mzupan.github.io/pear</c>
+    <v>1.0.0</v>
+    <st>beta</st>
+    <l>The MIT License</l>
+    <m>drslump</m>
+    <s>PHP implementation of Google's Protocol Buffers</s>
+    <d>Protobuf for PHP is an implementation of Google's Protocol Buffers for the 
+PHP language, supporting its binary data serialization and including a 
+protoc plugin to generate PHP classes from .proto files.</d>
+    <da>2014-12-12 13:31:08</da>
+    <n>
+http://github.com/drslump/Protobuf-PHP
+ </n>
+    <f>5577</f>
+    <g>http://mzupan.github.io/pear/get/Protobuf-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

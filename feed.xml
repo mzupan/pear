@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://mzupan.github.io/pear</id>
-    <updated>2014-12-12T05:26:35-08:00</updated>
+    <updated>2014-12-12T05:31:30-08:00</updated>
     <title>mzupan's PEAR Channel Server Latest Releases</title>
     <link href="http://mzupan.github.io/pear/feed.xml" rel="self" />
     <author>
         <name>http://mzupan.github.io/pear</name>
     </author>
 
-
+    <entry>
+        <title>Protobuf 1.0.0 (beta)</title>
+        <link href="http://mzupan.github.io/pear/get/Protobuf-1.0.0.tgz" />
+        <id>http://mzupan.github.io/pear/get/Protobuf-1.0.0.tgz</id>
+        <author>
+            <name>drslump</name>
+        </author>
+        <updated>2014-12-12T13:31:08-08:00</updated>
+        <content>
+            Protobuf for PHP is an implementation of Google's Protocol Buffers for the 
+PHP language, supporting its binary data serialization and including a 
+protoc plugin to generate PHP classes from .proto files.
+            
+http://github.com/drslump/Protobuf-PHP
+ 
+        </content>
+    </entry>
 </feed>
